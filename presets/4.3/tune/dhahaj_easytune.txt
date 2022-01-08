@@ -1,7 +1,7 @@
 #$ TITLE: dhahaj 5" 6S Freestyle
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: TUNE
-#$ STATUS: EXPERIMENTAL
+#$ STATUS: OFFICIAL
 #$ KEYWORDS: 6S, Freestyle, 5 inch, 5"
 #$ AUTHOR: dhahaj
 #$ DESCRIPTION: dhahaj's Freestyle Preset for 5 Inch Builds
