@@ -2,8 +2,8 @@
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: TUNE
 #$ STATUS: OFFICIAL
-#$ KEYWORDS: defaults, reset, tune, default, some, partial
-#$ AUTHOR: Betaflight
+#$ KEYWORDS: defaults, reset, tune, default, some, partial, dhahaj
+#$ AUTHOR: dhahaj
 #$ DESCRIPTION: Check the tune parameters that you want to reset to defaults.
 #$ DESCRIPTION: Un-checked parameters will remain at current values.
 
